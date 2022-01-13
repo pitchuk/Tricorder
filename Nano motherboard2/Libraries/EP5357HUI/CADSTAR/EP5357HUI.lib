@@ -1,0 +1,16 @@
+.EP5357HUI :1 ;Switching Voltage Regulators 600mA/5MHz Buck Reg Int Inductor, Hi VID
+QFN40P225X250X120-16N-D
+*STM IC
+*NGS
+*PLB 1="NC(SW)_1" 2="PGND" 3="LLM" 4="NC" 5="VSENSE" 6="AGND" 7="VOUT_1" 8="VOUT_2" 9="VS2" 10="VS1" 11="VS0" 12="ENABLE" 13="AVIN" 14="PVIN" 15="NC(SW)_2" 16="NC(SW)_3"
+*MXP 16
+*DFN EP5357HUI
+~!Mouser Part Number (884-EP5357HUI)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Intel-Altera/EP5357HUI?qs=Bt1661OnjFKQMLj2uHL8Lg%3D%3D)
+~!Manufacturer_Name (Intel)
+~!Manufacturer_Part_Number (EP5357HUI)
+~!Link Datasheet (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/ep5357_03409.pdf)
+~!Height (1.2mm)
+~!3D_Model (EP5357HUI)
+EP5357HUI
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 16.1!U 15.1!U 

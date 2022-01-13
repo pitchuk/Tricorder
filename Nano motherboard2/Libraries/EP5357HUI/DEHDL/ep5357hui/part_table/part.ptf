@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EP5357HUI'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Intel", "EP5357HUI" (!) = "", "QFN40P225X250X120-16N-D", "Quad Flat No-Lead", "884-EP5357HUI", "https://www.mouser.co.uk/ProductDetail/Intel-Altera/EP5357HUI?qs=Bt1661OnjFKQMLj2uHL8Lg%3D%3D", "Switching Voltage Regulators 600mA/5MHz Buck Reg Int Inductor, Hi VID", "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/ep5357_03409.pdf", "1.2 mm"
+END_PART
+
+END.

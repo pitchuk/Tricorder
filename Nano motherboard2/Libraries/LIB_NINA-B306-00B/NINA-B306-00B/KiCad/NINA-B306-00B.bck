@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NINA-B306-00B
+D RX TXRX MODULE BT TRC ANT SMD
+K
+F https://www.u-blox.com/en/docs/UBX-17052099
+$ENDCMP
+#
+#End Doc Library

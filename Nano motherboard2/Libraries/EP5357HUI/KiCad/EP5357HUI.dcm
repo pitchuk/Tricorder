@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EP5357HUI
+D Switching Voltage Regulators 600mA/5MHz Buck Reg Int Inductor, Hi VID
+K
+F https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/ep5357_03409.pdf
+$ENDCMP
+#
+#End Doc Library

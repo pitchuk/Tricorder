@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NINA-B306-00B"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-12-13-22:58:27)
+    (mountForm default
+        (footprintRef "NINAB30600B")
+        (spec "System")
+    )
+)

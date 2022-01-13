@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PRTR5V0U2X
+PartCategory=Diode
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2020-10-07 13:08:25
+Downloaded=2021-12-10 13:08:49
+3D=Y

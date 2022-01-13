@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RV3028C732768kHz1ppmTAQC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RV3028C732768kHz1ppmTAQC")
+        (spec "default")
+    )
+)

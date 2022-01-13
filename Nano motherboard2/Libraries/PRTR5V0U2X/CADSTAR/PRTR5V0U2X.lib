@@ -1,0 +1,16 @@
+.PRTR5V0U2X :1 ;NEXPERIA - PRTR5V0U2X - DIODE, TVS, DUAL, SOT-143B
+PRTR5V0U2X
+*STM D
+*NGS
+*PLB 1="GND" 2="I/O 1" 3="I/O 2" 4="VCC"
+*MXP 4
+*DFN PRTR5V0U2X
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PRTR5V0U2X)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf)
+~!Height (1.1mm)
+~!3D_Model (PRTR5V0U2X)
+PRTR5V0U2X
+1.1!U 2.1!U 3.1!U 4.1!U 

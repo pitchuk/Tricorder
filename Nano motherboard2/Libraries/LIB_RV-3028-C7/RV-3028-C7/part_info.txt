@@ -1,0 +1,9 @@
+Manufacturer=Micro Crystal AG
+PartNumber=RV-3028-C7
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=2.3
+Released=2018-08-05 11:08:32
+Downloaded=2021-12-10 20:24:35
+3D=Y

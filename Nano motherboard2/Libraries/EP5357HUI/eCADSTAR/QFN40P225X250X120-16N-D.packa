@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EP5357HUI"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-01-26-07:30:12)
+    (mountForm default
+        (footprintRef "QFN40P225X250X120-16N-D")
+        (spec "System")
+    )
+)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "QFN40P225X250X120-16N-D"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "QFN40P225X250X120-16N-D")
+        (spec "default")
+    )
+)

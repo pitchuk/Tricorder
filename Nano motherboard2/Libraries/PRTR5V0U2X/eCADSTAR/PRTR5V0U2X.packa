@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PRTR5V0U2X"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-07-13:08:25)
+    (mountForm default
+        (footprintRef "PRTR5V0U2X")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLM18EG101TN1D
+D BLM18_N1D Series EMI Suppression Filter 100+/-25% at 100MHz 2A @85
+K
+F https://www.murata.com/en-us/products/productdetail?partno=BLM18EG101TN1%23
+$ENDCMP
+#
+#End Doc Library

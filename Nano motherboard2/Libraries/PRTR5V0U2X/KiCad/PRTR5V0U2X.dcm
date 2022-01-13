@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PRTR5V0U2X
+D NEXPERIA - PRTR5V0U2X - DIODE, TVS, DUAL, SOT-143B
+K
+F https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf
+$ENDCMP
+#
+#End Doc Library

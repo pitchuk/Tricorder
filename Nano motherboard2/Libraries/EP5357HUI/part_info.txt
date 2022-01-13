@@ -1,0 +1,9 @@
+Manufacturer=Intel
+PartNumber=EP5357HUI
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=16
+Version=2.1
+Released=2019-05-15 11:08:08
+Downloaded=2021-03-19 23:53:37
+3D=Y

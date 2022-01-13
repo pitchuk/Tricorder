@@ -1,0 +1,16 @@
+.RV-3028-C7 :1 ;Extreme Low Power RTC Module
+RV3028C732768kHz1ppmTAQC
+*STM IC
+*NGS
+*PLB 1="CLKOUT" 2="'INT'" 3="SCL" 4="SDA" 5="VSS" 6="VBACKUP" 7="VDD" 8="EVI"
+*MXP 8
+*DFN RV-3028-C7
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Micro Crystal AG)
+~!Manufacturer_Part_Number (RV-3028-C7)
+~!Link Datasheet (https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3028-C7.pdf)
+~!Height (0.8mm)
+~!3D_Model (RV-3028-C7)
+RV-3028-C7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

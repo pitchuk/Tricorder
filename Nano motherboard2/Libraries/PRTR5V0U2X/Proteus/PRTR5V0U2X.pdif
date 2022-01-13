@@ -1,0 +1,124 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PRTR5V0U2X"
+   (description "NEXPERIA - PRTR5V0U2X - DIODE, TVS, DUAL, SOT-143B")
+   (family "DIO")
+   (package "PRTR5V0U2X")
+   (attribute "Datasheet Link" "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Mouser Part Number" "N/A")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA")
+   (attribute "Manufacturer_Name" "Nexperia")
+   (attribute "Manufacturer_Part_Number" "PRTR5V0U2X")
+   (gate
+    (symbol "PRTR5V0U2X")
+    (pin "GND" 1 PS)
+    (pin "I/O_1" 2 PS)
+    (pin "I/O_2" 3 PS)
+    (pin "VCC" 4 PS)
+   )
+  )
+  (symbol "PRTR5V0U2X"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PRTR5V0U2X"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.45 0.65)
+      (pt 1.45 0.65)
+      (pt 1.45 -0.65)
+      (pt -1.45 -0.65)
+      (pt -1.45 0.65))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.7 2.35)
+      (pt 2.45 2.35)
+      (pt 2.45 -2.35)
+      (pt -2.7 -2.35)
+      (pt -2.7 2.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.7 -1.1)
+      (arc (pt -1.700 -1.100) (pt -1.700 -1.150) (pt -1.600 -1.050) (start 180.0) (sweep 180.0))
+      (pt -1.6 -1.1)
+      (arc (pt -1.600 -1.100) (pt -1.700 -1.150) (pt -1.600 -1.050) (start 180.0) (sweep .0))
+      (pt -1.7 -1.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.45 0.65)
+      (pt -1.45 -0.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1.45 0.7)
+      (pt 1.45 -0.65))))
+   (leg 1 (pt -0.750 -1.000) (padstack 1))
+   (leg 2 (pt 0.950 -1.000) (padstack 0))
+   (leg 3 (pt 0.950 1.000) (padstack 0))
+   (leg 4 (pt -0.950 1.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 0.700 0 0 90.000))
+   )
+   (padstack 1
+    (plated false)
+    (pad (layer TCOP) (rectf 0.700 1.000 0 0 0.000))
+   )
+   (model "PRTR5V0U2X.stp"
+    (euler 90 0 0)
+    (offset -1.3799999952316284 2.1700000762939453 -1.2100000381469727)
+   )
+  )
+ )
+)

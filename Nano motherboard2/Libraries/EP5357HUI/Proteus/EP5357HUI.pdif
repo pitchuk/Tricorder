@@ -1,0 +1,191 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "EP5357HUI"
+   (description "Switching Voltage Regulators 600mA/5MHz Buck Reg Int Inductor, Hi VID")
+   (family "ANA")
+   (package "QFN40P225X250X120-16N-D")
+   (attribute "Datasheet Link" "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/ep5357_03409.pdf")
+   (attribute "Geometry.Height" "1.2mm")
+   (attribute "Mouser Part Number" "884-EP5357HUI")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Intel-Altera/EP5357HUI?qs=Bt1661OnjFKQMLj2uHL8Lg%3D%3D")
+   (attribute "Manufacturer_Name" "Intel")
+   (attribute "Manufacturer_Part_Number" "EP5357HUI")
+   (gate
+    (symbol "EP5357HUI")
+    (pin "NC(SW)_1" 1 PS)
+    (pin "PGND" 2 PS)
+    (pin "LLM" 3 PS)
+    (pin "NC" 4 NC)
+    (pin "VSENSE" 5 PS)
+    (pin "AGND" 6 PS)
+    (pin "VOUT_1" 7 PS)
+    (pin "VOUT_2" 8 PS)
+    (pin "PVIN" 14 PS)
+    (pin "AVIN" 13 PS)
+    (pin "ENABLE" 12 PS)
+    (pin "VS0" 11 PS)
+    (pin "VS1" 10 PS)
+    (pin "VS2" 9 PS)
+    (pin "NC(SW)_3" 16 PS)
+    (pin "NC(SW)_2" 15 PS)
+   )
+  )
+  (symbol "EP5357HUI"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 600) (pt 1200 600) (pt 1200 -1000) (pt 200 -1000) (pt 200 600) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 -1200) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 -1200) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 800) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 800) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "QFN40P225X250X120-16N-D"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.75 1.9)
+      (pt 1.75 1.9)
+      (pt 1.75 -1.9)
+      (pt -1.75 -1.9)
+      (pt -1.75 1.9))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.125 1.25)
+      (pt 1.125 1.25)
+      (pt 1.125 -1.25)
+      (pt -1.125 -1.25)
+      (pt -1.125 1.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.125 0.85)
+      (pt -0.725 1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -1.4 1.6) (pt -1.6 1.6)
+     )
+    )
+   )
+   (leg 1 (pt -1.1 1) (padstack 0))
+   (leg 2 (pt -1.1 0.6) (padstack 0))
+   (leg 3 (pt -1.1 0.2) (padstack 0))
+   (leg 4 (pt -1.1 -0.2) (padstack 0))
+   (leg 5 (pt -1.1 -0.6) (padstack 0))
+   (leg 6 (pt -1.1 -1) (padstack 0))
+   (leg 7 (pt -0.2 -1.25) (padstack 1))
+   (leg 8 (pt 0.2 -1.25) (padstack 1))
+   (leg 9 (pt 1.1 -1) (padstack 2))
+   (leg 10 (pt 1.1 -0.6) (padstack 2))
+   (leg 11 (pt 1.1 -0.2) (padstack 2))
+   (leg 12 (pt 1.1 0.2) (padstack 2))
+   (leg 13 (pt 1.1 0.6) (padstack 2))
+   (leg 14 (pt 1.1 1) (padstack 2))
+   (leg 15 (pt 0.2 1.25) (padstack 3))
+   (leg 16 (pt -0.2 1.25) (padstack 3))
+   (padstack 0
+    (pad (layer TCOP) (path (pt -0.4 0.1) (arc (pt 0.3 0.1) (pt 0.2 -0.1) (pt 0.4 0.1) (start -180) (sweep 90)) (pt 0.3 -0.1) (pt -0.4 -0.1) (pt -0.4 0.1)))
+   )
+   (padstack 1
+    (pad (layer TCOP) (path (pt -0.1 -0.4) (arc (pt -0.1 0.3) (pt -0.1 0.2) (pt 0.1 0.4) (start -180) (sweep 180)) (pt 0.1 0.3) (pt 0.1 -0.4) (pt -0.1 -0.4)))
+   )
+   (padstack 2
+    (pad (layer TCOP) (path (pt 0.4 -0.1) (arc (pt -0.3 -0.1) (pt -0.4 -0.1) (pt -0.2 0.1) (start -180) (sweep 270)) (pt -0.3 0.1) (pt 0.4 0.1) (pt 0.4 -0.1)))
+   )
+   (padstack 3
+    (pad (layer TCOP) (path (pt 0.1 0.4) (arc (pt 0.1 -0.3) (pt -0.1 -0.4) (pt 0.1 -0.2) (start -180) (sweep 0)) (pt -0.1 -0.3) (pt -0.1 0.4) (pt 0.1 0.4)))
+   )
+   (model "EP5357HUI.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

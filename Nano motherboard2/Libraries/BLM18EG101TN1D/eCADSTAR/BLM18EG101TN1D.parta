@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_408201"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-08-10-16:29:26)
+    (utime 2019-10-10-10:28:44)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "BLM18EG101TN1D")
+)
+
+
+(pinAssign "ECS_408201"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-08-10-16:29:26)
+    (utime 2019-10-10-10:28:44)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_408201")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "BLM18EG101TN1D")
+)
+
+
+(part "BLM18EG101TN1D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-08-10-16:29:26)
+    (utime 2019-10-10-10:28:44)
+    (packageRef "BLM18EG101TN1D")
+    (pinAssignRef "ECS_408201")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "FB")
+    (property "description" "BLM18_N1D Series EMI Suppression Filter 100+/-25% at 100MHz 2A @85")
+    (property "Mouser_Part_Number" "81-BLM18EG101TN1D")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM18EG101TN1D?qs=rjbY5pkpCp4yQ17nVbKqBw%3D%3D")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "BLM18EG101TN1D")
+    (property "Datasheet_Link" "https://www.murata.com/en-us/products/productdetail?partno=BLM18EG101TN1%23")
+    (property "compAreaTopHeight" 0.75)
+)
+
+

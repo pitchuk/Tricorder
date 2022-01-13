@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=BLM18EG101TN1D
+PartCategory=Ferrite Bead
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2017-08-10 16:29:26
+Downloaded=2021-12-10 11:21:39
+3D=Y
