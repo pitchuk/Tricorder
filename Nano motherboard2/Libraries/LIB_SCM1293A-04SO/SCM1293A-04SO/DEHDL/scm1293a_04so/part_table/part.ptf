@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SCM1293A_04SO'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ON Semiconductor", "SCM1293A-04SO" (!) = "", "SOT95P275X110-6N", "SOT23 (6-Pin)", "863-SCM1293A-04SO", "https://www.mouser.co.uk/ProductDetail/onsemi/SCM1293A-04SO?qs=xGcJQ%252BnsJwsHFkDapKZ7eg%3D%3D", "ESD Suppressors / TVS Diodes 4 CH. LOW CAP ESD", "https://www.onsemi.com/pub/Collateral/CM1293A-04SO-D.PDF", "1.1 mm"
+END_PART
+
+END.

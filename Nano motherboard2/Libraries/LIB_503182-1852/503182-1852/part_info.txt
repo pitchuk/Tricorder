@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=503182-1852
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=1.1
+Released=2018-11-15 14:30:49
+Downloaded=2022-01-18 16:42:38
+3D=Y

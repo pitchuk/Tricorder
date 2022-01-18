@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '503182_1852'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Molex", "503182-1852" (!) = "", "5031821852", "Other", "538-503182-1852", "https://www.mouser.co.uk/ProductDetail/Molex/503182-1852?qs=s7UCm7gO1bZmpyAhCKZ26g%3D%3D", "Micro SD Normal UltraLowPro8CktEmbsTpPkg", "https://www.molex.com/pdm_docs/sd/5031821852_sd.pdf"
+END_PART
+
+END.

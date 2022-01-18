@@ -1,0 +1,16 @@
+.SCM1293A-04SO :1 ;ESD Suppressors / TVS Diodes 4 CH. LOW CAP ESD
+SOT95P275X110-6N
+*STM D
+*NGS
+*PLB 1="CH1" 2="VN" 3="CH2" 4="CH3" 5="VP" 6="CH4"
+*MXP 6
+*DFN SCM1293A-04SO
+~!Mouser Part Number (863-SCM1293A-04SO)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/SCM1293A-04SO?qs=xGcJQ%252BnsJwsHFkDapKZ7eg%3D%3D)
+~!Manufacturer_Name (ON Semiconductor)
+~!Manufacturer_Part_Number (SCM1293A-04SO)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/CM1293A-04SO-D.PDF)
+~!Height (1.1mm)
+~!3D_Model (SCM1293A-04SO)
+SCM1293A-04SO
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Monolithic Power Systems (MPS)
+PartNumber=MP2565DQ-LF-Z
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=11
+Version=1.1
+Released=2021-03-04 05:00:20
+Downloaded=2022-01-15 13:21:05
+3D=Y

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SCM1293A-04SO"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-07-18:40:21)
+    (mountForm default
+        (footprintRef "SOT95P275X110-6N")
+        (spec "System")
+    )
+)

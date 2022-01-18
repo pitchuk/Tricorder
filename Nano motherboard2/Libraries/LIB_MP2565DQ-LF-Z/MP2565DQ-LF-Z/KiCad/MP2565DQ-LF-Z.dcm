@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2565DQ-LF-Z
+D IC REG BUCK ADJ 2.5A 10QFN
+K
+F https://www.monolithicpower.com/pub/media/document/MP2565_r1.01.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SCM1293A-04SO
+D ESD Suppressors / TVS Diodes 4 CH. LOW CAP ESD
+K
+F https://www.onsemi.com/pub/Collateral/CM1293A-04SO-D.PDF
+$ENDCMP
+#
+#End Doc Library

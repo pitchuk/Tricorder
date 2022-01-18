@@ -1,0 +1,9 @@
+Manufacturer=ON Semiconductor
+PartNumber=SCM1293A-04SO
+PartCategory=Diode ESD (Uni-directional)
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2020-04-22 15:36:09
+Downloaded=2022-01-17 13:24:14
+3D=Y

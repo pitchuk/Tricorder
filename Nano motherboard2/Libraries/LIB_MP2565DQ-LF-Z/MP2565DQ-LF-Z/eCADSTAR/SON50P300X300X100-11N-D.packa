@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MP2565DQ-LF-Z"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-01-06-10:31:45)
+    (mountForm default
+        (footprintRef "SON50P300X300X100-11N-D")
+        (spec "System")
+    )
+)
