@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "DSP_NINA")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_NINA-B306-00B/NINA-B306-00B/KiCad")(options "")(descr ""))
+  (lib (name "DSP_RTC")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_RV-3032-C7/RV-3032-C7/KiCad")(options "")(descr ""))
+  (lib (name "DSP_SD")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_503182-1852/503182-1852/KiCad")(options "")(descr ""))
+  (lib (name "DSP_D_Sub")(type "KiCad")(uri "${KIPRJMOD}/Libraries/D_Sub.pretty")(options "")(descr ""))
+  (lib (name "DSP_PRTR5V")(type "KiCad")(uri "${KIPRJMOD}/Libraries/PRTR5V0U2X/KiCad")(options "")(descr ""))
+  (lib (name "BLM18EG101TN1D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BLM18EG101TN1D")(options "")(descr ""))
+  (lib (name "DSP_SCM")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_SCM1293A-04SO/SCM1293A-04SO/KiCad")(options "")(descr ""))
+  (lib (name "detect_switch")(type "KiCad")(uri "${KIPRJMOD}/Libraries/detect_switch.pretty")(options "")(descr ""))
+)
